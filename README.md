@@ -1,8 +1,8 @@
 # Hola mundo 👋, soy Jose Duarte
 
-Un Apasionado por la tecnología y sus usos en la vida diaria de las personas, amplia experiencia en desarrollo web así mismo como su implementación en diversas plataformas y tecnologías.
+Un Apasionado por la tecnología y sus usos en la vida diaria de las personas usando el desarrollo web, así mismo como su implementación en diversas plataformas y tecnologías.
 
-Cuento con un amplio abanico de habilidades en TI, desde servicio tecnico pasando por redes, cctv, y ultimamente he entrado en el increible mundo del desarrollo, me siento comodo lidiando con el stack completo para que puedas tener una web al aire.
+Cuento con un amplio abanico de habilidades en TI, desde servicio tecnico pasando por redes, cctv, y el increible mundo del desarrollo, me siento comodo lidiando con el stack completo para llevar tu idea al mundo.
 
 ## 📫 Contacto
 
